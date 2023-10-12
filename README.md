@@ -1,5 +1,5 @@
 ### Hi there :)
-⏳ Loading... ⏳
+Nothing much to see here yet... But while you're at it, check out my work in progress tomsbackyard.io
 
 <!--
 **tbelmar/tbelmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
